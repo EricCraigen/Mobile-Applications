@@ -1,2 +1,0 @@
-include ':app'
-rootProject.name = "PIG Dice Rolling Game"
